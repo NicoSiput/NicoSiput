@@ -28,11 +28,13 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
-  <img align="left" alt="nicosiput's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicosiput&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="nicosiput's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicosiput&show_icons=true&hide_border=true&theme=dark" />
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicosiput&layout=compact)][website]
 
 [website]: https://me.nicosiput.com
 [instagram]: https://instagram.com/NicoSiput
