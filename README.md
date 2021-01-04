@@ -30,8 +30,6 @@
 <br />
 <br /><br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=januridp.januridp)
-
 ### GitHub Stats
 
 [![NicoSiput's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=nicosiput&show_icons=true&hide_border=true&theme=dark)][mygithub]
