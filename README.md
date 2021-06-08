@@ -1,4 +1,4 @@
-### Hi there, I'm Nico - aka [nicosiput][website] 👋
+### Hi there, I'm Nico [website] 👋
 
 [![Website](https://img.shields.io/website?label=me.nicosiput.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://me.nicosiput.com)
 
