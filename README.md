@@ -34,7 +34,7 @@
 
 ### GitHub Stats
 
-[![NicoSiput's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=nicosiput&show_icons=true&hide_border=true&theme=dark)][mygithub]
+[![NicoSiput's github stats](https://github-readme-stats.vercel.app/api?username=NicoSiput&show_icons=true&theme=dark)][mygithub]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicosiput&layout=compact)][mygithub]
 
